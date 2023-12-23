@@ -1,0 +1,46 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.App  {
+  color: #3498db;
+}
+
+.Game {
+  background-color: #3cb0cd;
+  border: 1px solid #bdc3c7;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.Leaderboard {
+  margin-top: 20px;
+}
+
+.Camera {
+  margin-top: 20px;
+}
+
+.Game h2 {
+  color: #2ecc71;
+}
+
+.Leaderboard h2 {
+  color: #e74c3c;
+}
+
+.Leaderboard li {
+  margin-bottom: 10px;
+}
